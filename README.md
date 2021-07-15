@@ -1,6 +1,6 @@
-# Hi, I am Shivam Jaiswal👋
-# ( Student at ITS 🏛️)
-# ABOUT ME 
+## Hi, I am Shivam Jaiswal👋
+### Student at ITS- Institute of Technology and Science🏛️
+## 👦🏻ABOUT ME...
 
 
 
