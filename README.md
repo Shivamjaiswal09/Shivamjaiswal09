@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I am Shivam Jaiswal👋
 
-<!--
-**Shivamjaiswal09/Shivamjaiswal09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently studying in college.
+- 🌱 I’m currently learning *Data Science*.
+- 👯 I’m looking to collaborate on LinkedIn.
+- 🤔 I’m looking for help with "Data science projects".
+- 💬 Ask me about Data Science and any Tech related thing.
+- 📫 How to reach me: LinkedIn: Shivam Jaiswal.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am in a Search of New Friend.
+
