@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with "Data science projects".
 - 💬 Ask me about Data Science and any Tech related thing.
-- 📫 How to reach me: LinkedIn: Shivam Jaiswal.
+- 📫 How to reach me: https://www.linkedin.com/in/shivam-jaiswal-979978211
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am in a Search of New Friend.
 
